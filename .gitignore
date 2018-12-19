@@ -1,3 +1,7 @@
+# Data
+/data
+/Data
+
 # History files
 .Rhistory
 .Rapp.history
@@ -32,5 +36,3 @@ vignettes/*.pdf
 *.utf8.md
 *.knit.md
 
-# Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
-rsconnect/
